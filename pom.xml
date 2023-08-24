@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.10.144:8081/repository/Cloud-Gen-Ravi/</url>
+            <url>http://192.168.10.144:8081/repository/Cloud-Gen-Rani/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
